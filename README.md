@@ -33,9 +33,13 @@ A Python script that extracts text from quiz screenshots using Optical Character
 Question 1
 -------------------------
 What is the capital of Germany?
+
 Berlin
+
 Munich
+
 Hamburg
+
 Cologne
 
 Question 2
