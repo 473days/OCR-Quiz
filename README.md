@@ -28,3 +28,16 @@ A Python script that extracts text from quiz screenshots using Optical Character
 2. Install Python dependencies:
    ```bash
    pip install opencv-python pillow pytesseract
+
+## Output Format
+Question 1
+-------------------------
+What is the capital of Germany?
+Berlin
+Munich
+Hamburg
+Cologne
+
+Question 2
+-------------------------
+...
